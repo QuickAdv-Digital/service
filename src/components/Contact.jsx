@@ -71,7 +71,7 @@ export default function Contact() {
           backgroundImage: `url('https://images.unsplash.com/photo-1534536281715-e28d76689b4d?w=900&q=70')`,
           backgroundSize: "cover",
           backgroundPosition: "center",
-          opacity: 0.06,
+          opacity: 0.9,
         }}
       />
 
@@ -136,11 +136,11 @@ export default function Contact() {
             </h2>
             <p
               style={{
-                color: "#64748b",
+                color: "#080f1a",
                 fontSize: 15,
                 lineHeight: 1.75,
                 marginBottom: 40,
-                maxWidth: 380,
+                maxWidth: 300,
               }}
             >
               Whether you need a website, better Google rankings, paid ads, or
@@ -149,8 +149,8 @@ export default function Contact() {
             </p>
 
             {[
-              { icon: "✉️", label: "Email", value: "hello@nexoradigital.in" },
-              { icon: "📱", label: "WhatsApp", value: "+91 98765 43210" },
+              { icon: "✉️", label: "Email", value: "quickadv.admin@gmail.com" },
+              { icon: "📱", label: "WhatsApp", value: "+91 7887735657" },
               {
                 icon: "📍",
                 label: "Location",
@@ -167,7 +167,7 @@ export default function Contact() {
                   padding: "14px 16px",
                   borderRadius: 10,
                   background: "#f8f9fc",
-                  border: "1px solid #e8ecf2",
+                  border: "1px solid #27303c",
                 }}
               >
                 <div
@@ -216,7 +216,7 @@ export default function Contact() {
           <div
             style={{
               background: "#fff",
-              border: "1px solid #e8ecf2",
+              border: "1px solid #080d14",
               borderRadius: 20,
               padding: "36px",
               boxShadow: "0 8px 40px rgba(0,0,0,0.08)",

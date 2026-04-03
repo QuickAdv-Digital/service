@@ -67,7 +67,7 @@ export default function Process() {
           backgroundImage: `url('https://images.unsplash.com/photo-1497366216548-37526070297c?w=1600&q=60')`,
           backgroundSize: "cover",
           backgroundPosition: "center",
-          opacity: 0.04,
+          opacity: 0.5,
         }}
       />
 
